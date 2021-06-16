@@ -32,6 +32,12 @@
   width: 25px;
   background-color: #dd4949;
   border-radius: 100%;
+}.barInput::-moz-range-thumb {
+  appearance: none;
+  height: 25px;
+  width: 25px;
+  background-color: #dd4949;
+  border-radius: 100%;
 }
 #canvasWaveElement {
   width: 360px;
